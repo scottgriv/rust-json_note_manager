@@ -1,0 +1,9 @@
+[package]
+name = "rust-note-manager"
+version = "0.1.0"
+authors = ["Scott Grivner <scott.grivner@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
