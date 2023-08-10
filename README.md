@@ -1,5 +1,5 @@
 # Rust JSON Note Manager
-A simple command-line tool for managing `JSON` notes built using **Rust**. 
+A simple command-line tool for managing `JSON` Notes built using **Rust**. 
 
 The project will use the `serde` and `serde_json` crates for serialization and deserialization, allowing users to store notes in a `JSON` file.
 
