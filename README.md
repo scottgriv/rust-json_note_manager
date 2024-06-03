@@ -81,7 +81,7 @@ cargo run -- add "This is a new note"
 ## What's Inside?
 
 ```bash
-rust-note-manager # Root directory
+rust-note-manager/ # Root directory
 ├── src/ # Source code
 │   ├── main.rs # For running the program
 │   ├── notes.rs # For managing notes
