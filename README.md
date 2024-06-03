@@ -35,7 +35,6 @@ A simple command-line tool for managing `JSON` Notes built using **Rust**.
 - [License](#license)
 - [Credits](#credits)
 
-
 ## Features
 
 The project will use the `serde` and `serde_json` crates for serialization and deserialization, allowing users to store notes in a `JSON` file.
